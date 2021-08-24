@@ -1,11 +1,14 @@
 ### Hi there 👋
+### Ola! 👋
 # Sou Nelson Domingos Eduardo.
 ### Recebe o meu caloroso :raised_hand_with_fingers_splayed:
-##Sou :🇦🇴: Estdante de computacao 
-###  Sou :heartpulse: por : Tecnologia :technologist: e Negocio :office_worker:.
+I am 🇦🇴 (Angolan) and I study computer science.
+Sou 🇦🇴 (Angolano) Estudante de computacao. 
+###  Apaixonado  :heartpulse: por : Tecnologia :technologist: e Negocio :office_worker:.
 
 
-# Meus Contactos
+# Entra em contacacto
+# Get in touch
 
 <a href="https://www.linkedin.com/in/nelsoneduardo/"> 
   <img align="center" alt="Meu perfil-Linkedin" heigth="39" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg">
