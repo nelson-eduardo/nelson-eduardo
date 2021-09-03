@@ -2,7 +2,7 @@
 ### Ola! 👋
 # Sou Nelson Domingos Eduardo.
 ### Recebe o meu caloroso :raised_hand_with_fingers_splayed:
-I am 🇦🇴 (Angolan) and I study computer science.
+I am 🇦🇴 (Angolan) and I student computer science.
 Sou 🇦🇴 (Angolano) Estudante de computacao. 
 ###  Apaixonado  :heartpulse: por : Tecnologia :technologist: e Negocio :office_worker:.
 
