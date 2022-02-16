@@ -10,12 +10,12 @@ Sou 🇦🇴 (Angolano) Estudante de computacao.
 # Entra em contacacto
 # Get in touch
 
-<a href="https://www.linkedin.com/in/nelsoneduardo/"> 
+<!-- <a href="https://www.linkedin.com/in/nelsoneduardo/"> 
   <img align="center" alt="Meu perfil-Linkedin" heigth="39" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg">
   
   </img>
 </a>
-
+ -->
 
 <a href="https://www.linkedin.com/in/nelsoneduardo/"> 
   <img align="center" alt="Meu perfil-Linkedin" heigth="39" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></img>
